@@ -1,2 +1,2 @@
-Landing-best-mobile-showcase-\
-LANDING PAGE USING HTML BEST MOBILE APP SHOWCASE
+# Responsive Airpods Landing Page
+LANDING PAGE USING HTML AIRPODS LANDING PAGE
